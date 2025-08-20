@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "workshops/index.qmd": [
+      "workshops.yml"
+    ],
+    "talks/index.qmd": [
+      "talks.yml"
+    ],
+    "teaching/index.qmd": [
+      "osu-teaching.yml"
+    ]
+  }
+}

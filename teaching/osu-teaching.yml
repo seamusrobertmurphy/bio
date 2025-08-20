@@ -1,0 +1,40 @@
+- title: Statistical Methods I
+  subtitle: ST551
+  path: http://st551.cwick.co.nz
+  author: Fall 2017
+  description: Graduate level methods class for statisticians.
+- title: Time Series
+  subtitle: ST565
+  path: http://stat565.cwick.co.nz/
+  author: Winter 2016
+  description: Graduate level class covering exploratory analysis, ARIMA modelling,
+    forecasting and time series regression.
+- title: Statistical Methods II
+  subtitle: ST552
+  path: http://stat552.cwick.co.nz
+  author: Winter 2016
+  description: Graduate level regression class for statisticians.
+- title: Methods of Data Analysis I
+  subtitle: ST511
+  path: http://stat511.cwick.co.nz
+  author: Fall 2015
+  description: Graduate level statistical methods class for non-statisticians with
+    a focus on one and two sample problems, ANOVA and simple linear regression.
+- title: Topics in Data Visualization
+  subtitle: ST599
+  path: https://canvas.instructure.com/courses/946353
+  author: Summer 2015
+  description: Perceptual principles, practice and critique with a focus on creation
+    of graphics using the R package ggplot2.
+- title: Methods of Data Analysis II
+  subtitle: ST512
+  path: http://stat512.cwick.co.nz
+  author: Winter 2015
+  description: Graduate level statistical methods class with a focus on regression.
+- title: Statistical Computing and Big Data
+  subtitle: ST599
+  path: http://stat599.cwick.co.nz
+  author: Spring 2014
+  description: Practice based class exposing students to the challenges of working
+    with big data with a focus on teamwork, data science workflow and presentation
+    of results.

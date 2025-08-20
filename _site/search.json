@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Charlotte Wickham",
+    "section": "",
+    "text": "I currently work at Posit, PBC on the Developer Relations team with a focus on Quarto.\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I taught in the Statistics Department at Oregon State University from 2011-2022. I continue to host some past course materials:\n\n\n\n\n\n\n\nStatistical Methods I\n\n\nST551\n\n\nGraduate level methods class for statisticians.\n\n\n\nFall 2017\n\n\n\n\n\n\n\n\n\n\nTime Series\n\n\nST565\n\n\nGraduate level class covering exploratory analysis, ARIMA modelling, forecasting and time series regression.\n\n\n\nWinter 2016\n\n\n\n\n\n\n\n\n\n\nStatistical Methods II\n\n\nST552\n\n\nGraduate level regression class for statisticians.\n\n\n\nWinter 2016\n\n\n\n\n\n\n\n\n\n\nMethods of Data Analysis I\n\n\nST511\n\n\nGraduate level statistical methods class for non-statisticians with a focus on one and two sample problems, ANOVA and simple linear regression.\n\n\n\nFall 2015\n\n\n\n\n\n\n\n\n\n\nTopics in Data Visualization\n\n\nST599\n\n\nPerceptual principles, practice and critique with a focus on creation of graphics using the R package ggplot2.\n\n\n\nSummer 2015\n\n\n\n\n\n\n\n\n\n\nMethods of Data Analysis II\n\n\nST512\n\n\nGraduate level statistical methods class with a focus on regression.\n\n\n\nWinter 2015\n\n\n\n\n\n\n\n\n\n\nStatistical Computing and Big Data\n\n\nST599\n\n\nPractice based class exposing students to the challenges of working with big data with a focus on teamwork, data science workflow and presentation of results.\n\n\n\nSpring 2014\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "workshops/index.html",
+    "href": "workshops/index.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Title\n\n\n\nRole\n\n\n\nDescription\n\n\n\nDate\n\n\n\n\n\n\n\n\nIntro to Positron for R/RStudio Users\n\n\nInstructor\n\n\nA half-day workshop at Cascadia R Conf on Positron particularly for R and RStudio users.\n\n\nJun 2025\n\n\n\n\n\n\nQuarto Websites\n\n\nCo-Instructor\n\n\nA full-day workshop at posit::conf(2024) where learners walk away with a customized personal website.\n\n\nAug 2024\n\n\n\n\n\n\nReproducible publishing with Quarto\n\n\nCo-Instructor\n\n\nA full-day workshop at JSM 2024 for those coming to Quarto from R Markdown.\n\n\nAug 2024\n\n\n\n\n\n\nIntro to Quarto\n\n\nInstructor\n\n\nA half-day workshop at Cascadia R Conf for those new to Quarto.\n\n\nJun 2024\n\n\n\n\n\n\nBuilding Tidy Tools\n\n\nCo-Instructor\n\n\nA two-day workshop at rstudio::conf(2020) for those who have embraced the tidyverse and now want to expand it to meet their own needs.\n\n\nJan 2020\n\n\n\n\n\n\nWelcome to the tidyverse\n\n\nCo-Instructor\n\n\nTwo low cost, one-day workshops targeting underrepresented groups, Atlanta GA, providing a feel for the complete data analysis process in R - from importing and manipulating data, through to visualization.\n\n\nOct 2019\n\n\n\n\n\n\nHappy R Users Purrr\n\n\nDesigner/Instructor\n\n\nA tutorial on the R package purrr delivered at rstudio::conf 2017, Cascadia Conf 2017 and useR! 2017\n\n\nJul 2017\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Title\n\n\n\nAt\n\n\n\nDate\n\n\n\n\n\n\n\n\nFrom One Notebook to Many Reports: Automating with Quarto\n\n\nSciPy 2025, Tacoma, WA\n\n\nJul 2025\n\n\n\n\n\n\nFrom Zero to Website in Twenty Minutes with Quarto\n\n\nJSM 2024, Portland, OR\n\n\nAug 2024\n\n\n\n\n\n\nQuarto: Reproducible Publishing\n\n\nOakridge National Lab\n\n\nMar 2024\n\n\n\n\n\n\nWhat’s New in Quarto?\n\n\nposit::conf(2023)\n\n\nSep 2023\n\n\n\n\n\n\nThis Month I Learned…\n\n\nRladies Washington D.C., via Zoom\n\n\nApr 2021\n\n\n\n\n\n\nThe Human Side of Data Analysis\n\n\nSouthern Stat Chat: Effective Pedagogy in Data Science, St. Olaf College, MN\n\n\nApr 2019\n\n\n\n\n\n\nNo matching items"
+  }
+]

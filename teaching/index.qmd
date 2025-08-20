@@ -1,0 +1,13 @@
+---
+title: Teaching
+listing:
+  id: osu-teaching
+  contents: osu-teaching.yml
+  type: grid
+---
+
+I taught in the Statistics Department at Oregon State University from 2011-2022. I continue to host some past course materials:
+
+::: {#osu-teaching}
+
+:::

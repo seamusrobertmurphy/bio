@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "cwick.co.nz"
+  site-url: cwick.co.nz
+  search: false
+  favicon: favicon-32x32.png
+  open-graph: 
+    image: card.png
+  page-footer:
+    left: "[Source](http://github.com/cwickham/cwick.co.nz)"
+    right: "Built with {{< iconify mdi:heart >}} and {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
+  navbar:
+    id: top-nav
+    pinned: true
+    toggle-position: right
+    right:
+      - talks/index.qmd
+      - workshops/index.qmd
+      - teaching/index.qmd
+    tools:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cwickham
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
+
+brand:
+  light: _brand-light.yml
+  dark: _brand.yml
+
+format:
+  html:
+    theme: 
+      - default
+      - _brand.yml

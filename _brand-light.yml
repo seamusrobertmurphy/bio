@@ -1,0 +1,50 @@
+color:
+  palette:
+    white: "#FFFFFF"
+    grey: "#777777"
+    light-grey: "#dddddd"
+    dark-grey: "#222222"
+    darkish-grey: "#494848"
+    yellow: "#fed136"
+    blue-grey: "#a2afbb"
+    blue: "rgb(44, 90, 151)"
+  background: white
+  foreground: dark-grey
+  primary: yellow
+  secondary: grey
+typography:
+  fonts:
+    - family: Kaushan Script
+      source: google
+    - family: Montserrat
+      source: google
+      weight: 400
+  base: 
+    family: Montserrat
+    size: 20px
+  link:
+    color: blue
+  headings:
+    family: Kaushan Script
+    color: blue
+    line-height: 1.2
+  monospace-inline:
+    background-color: light-grey
+    color: grey
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: $brand-dark-grey
+      navbar-fg: $brand-yellow
+    rules: |
+      .card .card-attribution{
+        color: $brand-blue;
+      }
+
+      .about-image {
+        border: 8px solid $brand-blue;
+      }
+
+      .card {
+        border-color: darken($brand-light-grey, 10%);
+      }

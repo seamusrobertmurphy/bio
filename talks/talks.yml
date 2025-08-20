@@ -1,0 +1,24 @@
+- title: "From One Notebook to Many Reports: Automating with Quarto"
+  date: 2025-07-11
+  venue: SciPy 2025, Tacoma, WA
+  path: https://cwickham.github.io/one-notebook-many-reports/#/from-one-notebook-to-many-reports-automating-with-quarto
+- title: "From Zero to Website in Twenty Minutes with Quarto"
+  date: 2024-08-06
+  venue: JSM 2024, Portland, OR
+  path: https://mine-cetinkaya-rundel.github.io/quarto-world-of-possibilities-jsm24/talks/3-websites/
+- title: "Quarto: Reproducible Publishing"
+  date: 2024-03-01
+  venue: Oakridge National Lab
+  path: https://github.com/cwickham/oakridge
+- title: What's New in Quarto?
+  date: 2023-09-01
+  venue: "`posit::conf(2023)`"
+  path: https://youtu.be/WR08GESib9Y?si=vTxco6_yuEDV8TBC
+- title: This Month I Learned...
+  date: 2021-04-01
+  venue: Rladies Washington D.C., via Zoom 
+  path: https://cwickham.github.io/this-month-I-learned/#1
+- title: The Human Side of Data Analysis
+  date: 2019-04-01
+  venue: "Southern Stat Chat: Effective Pedagogy in Data Science, St. Olaf College, MN"
+  path: https://github.com/cwickham/human-side#the-human-side-of-data-science

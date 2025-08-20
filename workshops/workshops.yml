@@ -1,0 +1,35 @@
+- title: Intro to Positron for R/RStudio Users
+  author: Instructor
+  path: https://posit-dev.github.io/positron-workshop/caskdr.html
+  description: A half-day workshop at Cascadia R Conf on Positron particularly for R and RStudio users.
+  date: 2025-06-21
+- title: Quarto Websites
+  author: Co-Instructor
+  path: https://posit-conf-2024.github.io/quarto-websites/
+  description: A full-day workshop at `posit::conf(2024)` where learners walk away with a customized personal website.
+  date: 2024-08-12
+- title: Reproducible publishing with Quarto
+  author: Co-Instructor
+  path: https://mine-cetinkaya-rundel.github.io/quarto-jsm24/
+  description: A full-day workshop at JSM 2024 for those coming to Quarto from R Markdown. 
+  date: 2024-08-04
+- title: Intro to Quarto
+  author: Instructor
+  path: https://charlotte.quarto.pub/cascadia/
+  description: A half-day workshop at Cascadia R Conf for those new to Quarto. 
+  date: 2024-06-21
+- title: Building Tidy Tools
+  author: Co-Instructor
+  path: https://github.com/rstudio-conf-2020/build-tidy-tools#building-tidy-tools
+  description: A two-day workshop at `rstudio::conf(2020)` for those who have embraced the tidyverse and now want to expand it to meet their own needs. 
+  date: 2020-01-01
+- title: Welcome to the tidyverse
+  author: Co-Instructor
+  path: https://github.com/cdhowe/atl-welcome-tidyverse
+  description: Two low cost, one-day workshops targeting underrepresented groups, Atlanta GA, providing a feel for the complete data analysis process in R - from importing and manipulating data, through to visualization. 
+  date: 2019-10-01
+- title: Happy R Users Purrr
+  path: https://www.rstudio.com/resources/rstudioconf-2017/happy-r-users-purrr-tutorial-/
+  author: "Designer/Instructor"
+  description: A tutorial on the R package purrr delivered at rstudio::conf 2017, Cascadia Conf 2017 and useR! 2017
+  date: 2017-07-04

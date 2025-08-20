@@ -1,0 +1,21 @@
+---
+title: "Seamus Murphy, PhD"
+subtitle: "Registered Forester | REDD+ Consultant | R Programmer"
+about:
+  image: profile.jpg
+  image-alt: Photo of Charlotte Wickham
+  id: hero-heading
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cwickham
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
+---
+
+::: {#hero-heading}
+I currently work at [Posit, PBC](http://posit.co) on the Developer Relations team with a focus on
+[Quarto](http://quarto.org).
+:::
