@@ -9,13 +9,14 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/cwickham
+      href: https://github.com/seamusrobertmurphy
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/charlotte-wickham-793a011a/
+      href: https://linkedin.com/in/seamusrobertmurphy
 ---
 
 ::: {#hero-heading}
-I currently work at [Posit, PBC](http://posit.co) on the Developer Relations team with a focus on
-[Quarto](http://quarto.org).
+I currently work at [Winrock International](https://winrock.org/) on the [Ecosystem
+Services](https://winrock.org/program-areas/environment-and-climate/ecosystem-services/) team with a
+focus on jurisdictional REDD+ development & verification.
 :::
