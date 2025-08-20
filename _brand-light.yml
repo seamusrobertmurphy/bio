@@ -12,32 +12,43 @@ color:
   foreground: dark-grey
   primary: yellow
   secondary: grey
+
 typography:
   fonts:
-    - family: Kaushan Script
+    - family: "Open Sans"
       source: google
-    - family: Montserrat
+      weight: [300, 400, 600, 700]
+      display: swap
+    - family: "Source Code Pro"
       source: google
       weight: 400
-  base: 
-    family: Montserrat
-    size: 20px
+      display: swap
+  base:
+    family: "Open Sans"
+    size: 1rem
+    line-height: 1.5
   link:
     color: blue
   headings:
-    family: Kaushan Script
+    family: "Open Sans"
+    weight: 600
     color: blue
-    line-height: 1.2
+    line-height: 1.3
+  monospace:
+    family: "Source Code Pro"
+    size: 0.9em
   monospace-inline:
+    family: "Source Code Pro"
     background-color: light-grey
     color: grey
+
 defaults:
   bootstrap:
     defaults:
       navbar-bg: $brand-dark-grey
       navbar-fg: $brand-yellow
     rules: |
-      .card .card-attribution{
+      .card .card-attribution {
         color: $brand-blue;
       }
 

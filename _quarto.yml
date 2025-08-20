@@ -2,15 +2,13 @@ project:
   type: website
 
 website:
-  title: "cwick.co.nz"
-  site-url: cwick.co.nz
+  title: "Séamus Murphy"
   search: false
-  favicon: favicon-32x32.png
+  favicon: favicon.png
   open-graph: 
     image: card.png
   page-footer:
-    left: "[Source](http://github.com/cwickham/cwick.co.nz)"
-    right: "Built with {{< iconify mdi:heart >}} and {{< iconify simple-icons:quarto >}} [Quarto](http://quarto.org)"
+    left: "[Source](https://github.com/seamusrobertmurphy/bio)"
   navbar:
     id: top-nav
     pinned: true

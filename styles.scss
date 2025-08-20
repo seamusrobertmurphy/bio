@@ -1,6 +1,6 @@
 /*-- scss:rules --*/
 .navbar-brand {
-  font-family: "Kaushan Script", serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .navbar-nav a {
@@ -16,5 +16,9 @@
 
 .card h5{
   font-size: 1.1em;
-  font-family: "Montserrat";
+  font-family: "Open Sans";
 }
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 17px;
