@@ -1,24 +1,25 @@
-- title: "From One Notebook to Many Reports: Automating with Quarto"
-  date: 2025-07-11
-  venue: SciPy 2025, Tacoma, WA
-  path: https://cwickham.github.io/one-notebook-many-reports/#/from-one-notebook-to-many-reports-automating-with-quarto
-- title: "From Zero to Website in Twenty Minutes with Quarto"
-  date: 2024-08-06
-  venue: JSM 2024, Portland, OR
-  path: https://mine-cetinkaya-rundel.github.io/quarto-world-of-possibilities-jsm24/talks/3-websites/
-- title: "Quarto: Reproducible Publishing"
-  date: 2024-03-01
-  venue: Oakridge National Lab
-  path: https://github.com/cwickham/oakridge
-- title: What's New in Quarto?
-  date: 2023-09-01
-  venue: "`posit::conf(2023)`"
-  path: https://youtu.be/WR08GESib9Y?si=vTxco6_yuEDV8TBC
-- title: This Month I Learned...
-  date: 2021-04-01
-  venue: Rladies Washington D.C., via Zoom 
-  path: https://cwickham.github.io/this-month-I-learned/#1
-- title: The Human Side of Data Analysis
-  date: 2019-04-01
-  venue: "Southern Stat Chat: Effective Pedagogy in Data Science, St. Olaf College, MN"
-  path: https://github.com/cwickham/human-side#the-human-side-of-data-science
+- title: "ART-TREES Carbon Audit Training: Git Control & Reproducible GHG Calculations"
+  date: 2025-08-11
+  venue: MAATE Quito, EC
+  path: https://github.com/seamusrobertmurphy/TREES-demo-repository
+- title: "LiDAR Forest Height Variability Analysis: Tree Top & Stand Structure Mapping for Field Inventory Operational Planning"
+  date: 2023-10-15
+  venue: FSB Prince Albert, SK
+  path: https://rpubs.com/seamusmurphy/gov_sk_tree_height_variability
+- title: "VM0047: ARR Project Feasibility Assessment: Land Degradation Metrics & Forest Change Detection"
+  date: 2024-10-17
+  venue: Climate Impact Partners, UK
+  path: https://rpubs.com/seamusmurphy/land-eligibility-hazard-degradation-check-VM0047
+- title: "VM0048: JREDD+ Deforestation Risk Mapping for Jurisdictional Credit Allocation Requirements"
+  date: 2024-11-04
+  venue: Winrock Intl.
+  path: https://seamusrobertmurphy.quarto.pub/vt0007-deforestation-map/VT0007-deforestation-map.html
+- title: "VM0010: IFM Emissions Reduction Reporting Workflow & Calculation 
+Requirements"
+  date: 2024-11-05
+  venue: Verra Engagement
+  path: https://seamusrobertmurphy.github.io/VM0010-starter-template/
+- title: "Geospatial Mapping Portfolio: Multi-Scale Site Maps & Field Visualization Tools"
+  date: 2024-12-04
+  venue: Quarto Pubs
+  path: https://seamusrobertmurphy.quarto.pub/map-templates/

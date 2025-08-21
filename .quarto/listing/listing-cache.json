@@ -5,9 +5,6 @@
     ],
     "talks/index.qmd": [
       "talks.yml"
-    ],
-    "teaching/index.qmd": [
-      "osu-teaching.yml"
     ]
   }
 }

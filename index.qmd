@@ -16,7 +16,5 @@ about:
 ---
 
 ::: {#hero-heading}
-I currently work at [Winrock International](https://winrock.org/) on the [Ecosystem
-Services](https://winrock.org/program-areas/environment-and-climate/ecosystem-services/) team with a
-focus on jurisdictional REDD+ development & verification.
+I currently work at [Winrock International](https://winrock.org/) on the [Ecosystem Services](https://winrock.org/program-areas/environment-and-climate/ecosystem-services/) team with a focus on jurisdictional REDD+ development & verification.
 :::

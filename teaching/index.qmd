@@ -6,8 +6,7 @@ listing:
   type: grid
 ---
 
-I taught in the Statistics Department at Oregon State University from 2011-2022. I continue to host some past course materials:
+I taught in the BioStatistics at Bangor University 2019-2020. I continue to host some past course materials:
 
 ::: {#osu-teaching}
-
 :::
